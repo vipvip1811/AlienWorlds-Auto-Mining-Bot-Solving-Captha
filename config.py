@@ -12,7 +12,7 @@ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 
 WORK_SITE_DIR = f'file:///{os.getcwd()}//js//index.html'  # website creation with WAX API
 
-headless = False  # скрыто ли окно браузера
+headless = False
 
 
 # do not forget to put cookies in the Cookies folder
