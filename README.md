@@ -34,12 +34,12 @@ Preparing accounts.
 
 https://i.ibb.co/LJcsvzM/1-R2g0wpu-K45-VCgzl-ICg-ECk-A.jpg
 
-6. You will have 3 seconds to right-click on the browser and click on EditThisCookie
+6. You will have 3 seconds to left-click on the browser and click on EditThisCookie
 7. If you did everything correctly, you will see such a window. The site must be https://all-access.wax.io/
 
 https://i.ibb.co/9w6sKJY/1-Oq-FEm8-Qm6u1wi-FNLXKLFKw.jpg
 
-8. Do not change anything and click on the button that is marked (import)
+8. Do not change anything and click on the button that is marked (export)
 9. Open the notebook, paste everything from the clipboard there, do not touch anything.
 10. Save it as 1.json (1.json - for the first account, 2 .json - as for the second, etc. FILE TYPE - ALL FILES, not .txt
 11. For the rest of the accounts, do steps 3-10
@@ -94,12 +94,12 @@ Russian:
 
 https://i.ibb.co/LJcsvzM/1-R2g0wpu-K45-VCgzl-ICg-ECk-A.jpg
 
-6. У Вас будет 3 секунды чтобы нажать правой клавишой мышки по браузеру и нажать на EditThisCookie
+6. У Вас будет 3 секунды чтобы нажать левой клавишой мышки по браузеру и нажать на EditThisCookie
 7. Если все сделали правильно у вас откроется такое окно. Сайт должен быть https://all-access.wax.io/
 
 https://i.ibb.co/9w6sKJY/1-Oq-FEm8-Qm6u1wi-FNLXKLFKw.jpg
 
-8. Ничего не меняйте и нажмите на кнопку что отмечена (import)
+8. Ничего не меняйте и нажмите на кнопку что отмечена (export)
 9. Открываем блокнот, вставляем туда все из буффера обмена, ничего не трогаем.
 10. Сохраняем это как 1.json (1.json — для первого акка, 2 .json— как для второго и т.д. ТИП ФАЙЛА — ВСЕ ФАЙЛЫ, не .txt
 11. Для остальных акков проделываем пункты 3–10
