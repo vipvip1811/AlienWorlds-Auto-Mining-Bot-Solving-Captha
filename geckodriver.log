@@ -1,11 +1,469 @@
-1621129458057	geckodriver	INFO	Listening on 127.0.0.1:57134
-1621129458590	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilepAx2rw"
+1620941957344	geckodriver	INFO	Listening on 127.0.0.1:61846
+1620941957876	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileggS8tr"
 *** You are running in headless mode.
-1621129458975	Marionette	INFO	Marionette enabled
+1620941958656	Marionette	INFO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1621129460979	Marionette	INFO	Listening on port 57139
-1621129461367	Marionette	WARN	TLS certificate errors will be ignored for this session
-1621129461371	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:57133","noProxy":[],"sslProxy":"127.0.0.1:57133"}
-JavaScript error: file:///C:/Users/Administrator/Documents/GitHub/Alien-Worlds-Auto-Mining-Bot-Solving-Captha//js//bundle.js, line 6575: Error: Login Endpoint Error 401 Unauthorized
-1621129469142	Marionette	INFO	Stopped listening on port 57139
-1621129470789	geckodriver	INFO	Listening on 127.0.0.1:57236
+1620941960155	Marionette	INFO	Listening on port 61851
+1620941960819	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620941960824	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61845","noProxy":[],"sslProxy":"127.0.0.1:61845"}
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+1620941996172	geckodriver	INFO	Listening on 127.0.0.1:61917
+1620941996235	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofiled6ZmWq"
+*** You are running in headless mode.
+1620941996790	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620941998721	Marionette	INFO	Listening on port 61922
+1620941999030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620941999034	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61916","noProxy":[],"sslProxy":"127.0.0.1:61916"}
+1620942067354	geckodriver	INFO	Listening on 127.0.0.1:62043
+1620942067837	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilecMBk5b"
+*** You are running in headless mode.
+1620942069037	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620942071813	Marionette	INFO	Listening on port 62048
+1620942072236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620942072243	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:62042","noProxy":[],"sslProxy":"127.0.0.1:62042"}
+1620942199725	geckodriver	INFO	Listening on 127.0.0.1:62144
+1620942200222	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileNUs5Ui"
+*** You are running in headless mode.
+1620942200939	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620942203093	Marionette	INFO	Listening on port 62149
+1620942203454	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620942203458	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:62143","noProxy":[],"sslProxy":"127.0.0.1:62143"}
+JavaScript error: file:///C:/Users/Administrator/Desktop/AWbot//js//bundle.js, line 6575: Error: Login Endpoint Error 401 Unauthorized
+1620942211784	Marionette	INFO	Stopped listening on port 62149
+[Parent 4700, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1620942212936	geckodriver	INFO	Listening on 127.0.0.1:62253
+1620942213478	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileM3cBsy"
+*** You are running in headless mode.
+1620942213909	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620942215216	Marionette	INFO	Listening on port 62258
+1620942215628	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620942215631	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:62252","noProxy":[],"sslProxy":"127.0.0.1:62252"}
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/background.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/background.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/background.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/background.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/background.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/background.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/ExtensionUtils.jsm, line 114: SecurityError: Permission denied to access property "windowGlobalChild" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionUtils.jsm, line 114: SecurityError: Permission denied to access property "windowGlobalChild" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 414: SecurityError: Permission denied to access property "removeEventListener" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 414: SecurityError: Permission denied to access property "removeEventListener" on cross-origin object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts2.js, line 1: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/ExtensionUtils.jsm, line 114: SecurityError: Permission denied to access property "windowGlobalChild" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 414: SecurityError: Permission denied to access property "removeEventListener" on cross-origin object
+[Parent 5732, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Parent 5732, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Parent 5732, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript error: file:///C:/Users/Administrator/Desktop/AWbot//js//bundle.js, line 6575: Error: Login Endpoint Error 401 Unauthorized
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://6aba7aba-999c-4ce1-b49d-e50676308c0a/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript error: file:///C:/Users/Administrator/Desktop/AWbot//js//bundle.js, line 24368: Error: expired transaction 586131721bd83d9ccc9a90ced8c7abf6b57d4c075625a0df94cc5e504ba19b90, expiration 2021-05-13T14:44:33.000, block time 2021-05-13T14:45:55.000
+JavaScript error: file:///C:/Users/Administrator/Desktop/AWbot//js//bundle.js, line 24368: Error: expired transaction b61a0aad095c583ad18ff632b1f2e44b5bdac55ac36622887e50ac24e41268c3, expiration 2021-05-13T14:46:22.000, block time 2021-05-13T14:47:43.000
+JavaScript error: file:///C:/Users/Administrator/Desktop/AWbot//js//bundle.js, line 24368: Error: expired transaction f3f1f136426e4b2fc146e274a3e4dd3e611457d8aad449fd6fa88356d31ae66c, expiration 2021-05-13T14:48:10.000, block time 2021-05-13T14:49:32.000
+JavaScript error: file:///C:/Users/Administrator/Desktop/AWbot//js//bundle.js, line 24368: Error: expired transaction df64547322d0e92def61477376edd2525355342769b3de0c8af9eae10b05c33e, expiration 2021-05-13T14:50:00.000, block time 2021-05-13T14:51:20.500
+1620942726254	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1620943004986	geckodriver	INFO	Listening on 127.0.0.1:62723
+1620943005534	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile92sbYE"
+*** You are running in headless mode.
+1620943006342	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620943008239	Marionette	INFO	Listening on port 62728
+1620943008355	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620943008358	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:62722","noProxy":[],"sslProxy":"127.0.0.1:62722"}
+JavaScript error: file:///C:/Users/Administrator/Desktop/AWbot//js//bundle.js, line 6575: Error: Login Endpoint Error 401 Unauthorized
+1620943016001	Marionette	INFO	Stopped listening on port 62728
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620943017006	geckodriver	INFO	Listening on 127.0.0.1:62835
+1620943017538	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileLnPc8L"
+1620943017925	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620943019975	Marionette	INFO	Listening on port 62840
+1620943020277	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620943020281	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:62834","noProxy":[],"sslProxy":"127.0.0.1:62834"}
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/background.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/background.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/background.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/background.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/background.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/background.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/ExtensionUtils.jsm, line 114: SecurityError: Permission denied to access property "windowGlobalChild" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionUtils.jsm, line 114: SecurityError: Permission denied to access property "windowGlobalChild" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 414: SecurityError: Permission denied to access property "removeEventListener" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 414: SecurityError: Permission denied to access property "removeEventListener" on cross-origin object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/ExtensionUtils.jsm, line 114: SecurityError: Permission denied to access property "windowGlobalChild" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 414: SecurityError: Permission denied to access property "removeEventListener" on cross-origin object
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript error: file:///C:/Users/Administrator/Desktop/AWbot//js//bundle.js, line 6575: Error: Login Endpoint Error 401 Unauthorized
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: file:///C:/Users/Administrator/Desktop/AWbot//js//bundle.js, line 24368: Error: expired transaction 8d9bd22dcc4929cc739dd0cbd82fe7a5a913fee5b5dd4dabec8f8fb272c9bd9e, expiration 2021-05-13T14:57:58.000, block time 2021-05-13T14:58:05.000
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript error: file:///C:/Users/Administrator/Desktop/AWbot//js//bundle.js, line 24368: Error: expired transaction f4c966913e9d23fc76728cbd1d0bde6dcb810f238a8aa0e05006ab4919a54349, expiration 2021-05-13T14:58:38.000, block time 2021-05-13T14:58:39.500
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://25bf887a-cfaf-4969-a180-212d3c6fba32/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript error: file:///C:/Users/Administrator/Desktop/AWbot//js//bundle.js, line 24368: Error: expired transaction 4a2c9ed735b0e81e1fa5f2fdd61051090b93884812077e8b5aed920db1e5e2a0, expiration 2021-05-13T14:59:13.000, block time 2021-05-13T14:59:18.000
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit {487609b5-5ca6-4c62-8523-11f3e1db851c}.274877907090
+[Parent 5592, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Parent 5592, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 5592, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1620943887844	Marionette	INFO	Stopped listening on port 62840
+1620945167630	geckodriver	INFO	Listening on 127.0.0.1:63610
+1620945168145	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile2aLQ7q"
+*** You are running in headless mode.
+1620945170150	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620945172969	Marionette	INFO	Listening on port 63615
+[Parent 8156, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1620945173237	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620945173241	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:63609","noProxy":[],"sslProxy":"127.0.0.1:63609"}
+JavaScript error: file:///C:/Users/Administrator/Desktop/AWbot//js//bundle.js, line 6575: Error: Login Endpoint Error 401 Unauthorized
+1620945180855	Marionette	INFO	Stopped listening on port 63615
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620945182020	geckodriver	INFO	Listening on 127.0.0.1:63720
+1620945182583	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileLQz7G4"
+1620945182998	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620945185297	Marionette	INFO	Listening on port 63725
+1620945185371	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620945185374	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:63719","noProxy":[],"sslProxy":"127.0.0.1:63719"}
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/background.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/background.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/background.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/background.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/background.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/background.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/ExtensionUtils.jsm, line 114: SecurityError: Permission denied to access property "windowGlobalChild" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionUtils.jsm, line 114: SecurityError: Permission denied to access property "windowGlobalChild" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionUtils.jsm, line 114: SecurityError: Permission denied to access property "windowGlobalChild" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 414: SecurityError: Permission denied to access property "removeEventListener" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 414: SecurityError: Permission denied to access property "removeEventListener" on cross-origin object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/ExtensionUtils.jsm, line 114: SecurityError: Permission denied to access property "windowGlobalChild" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 414: SecurityError: Permission denied to access property "removeEventListener" on cross-origin object
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript error: file:///C:/Users/Administrator/Desktop/AWbot//js//bundle.js, line 6575: Error: Login Endpoint Error 401 Unauthorized
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://f5ff70d0-cbcf-4d8a-9571-55ada650e18b/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript error: file:///C:/Users/Administrator/Desktop/AWbot//js//bundle.js, line 24368: Error: expired transaction e812cc3e99f4e0c30f8e0b39221ad55923e63fcf022364cfd5da7a1c20f7fc07, expiration 2021-05-13T15:34:03.000, block time 2021-05-13T15:35:24.500
+JavaScript error: file:///C:/Users/Administrator/Desktop/AWbot//js//bundle.js, line 24368: Error: expired transaction 4b87ef1e669c04aac1bbca9f4dfa1bd1eed279d1cf4d4d283ea1747b44488bb5, expiration 2021-05-13T15:35:51.000, block time 2021-05-13T15:37:13.000
+JavaScript error: file:///C:/Users/Administrator/Desktop/AWbot//js//bundle.js, line 24368: Error: expired transaction da8e9a8d1ec01ebc03f23fb83695878e24b244fef3296d302cfe1d93ed7a9cbb, expiration 2021-05-13T15:37:40.000, block time 2021-05-13T15:39:02.000
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit {487609b5-5ca6-4c62-8523-11f3e1db851c}.274877907083
+1620945645051	Marionette	INFO	Stopped listening on port 63725
+1620945655026	geckodriver	INFO	Listening on 127.0.0.1:63937
+1620945655064	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile7A2i2T"
+*** You are running in headless mode.
+1620945655812	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620945658021	Marionette	INFO	Listening on port 63942
+1620945658307	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620945658310	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:63936","noProxy":[],"sslProxy":"127.0.0.1:63936"}
+JavaScript error: file:///C:/Users/Administrator/Desktop/AWbot//js//bundle.js, line 6575: Error: Login Endpoint Error 401 Unauthorized
+1620945666436	Marionette	INFO	Stopped listening on port 63942
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620945668870	geckodriver	INFO	Listening on 127.0.0.1:64052
+1620945669412	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilef2RRVG"
+1620945669884	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620945672398	Marionette	INFO	Listening on port 64057
+1620945672660	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620945672665	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:64051","noProxy":[],"sslProxy":"127.0.0.1:64051"}
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/background.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/background.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/background.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/background.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/background.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/background.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/ExtensionUtils.jsm, line 114: SecurityError: Permission denied to access property "windowGlobalChild" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionUtils.jsm, line 114: SecurityError: Permission denied to access property "windowGlobalChild" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 414: SecurityError: Permission denied to access property "removeEventListener" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 414: SecurityError: Permission denied to access property "removeEventListener" on cross-origin object
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/ExtensionUtils.jsm, line 114: SecurityError: Permission denied to access property "windowGlobalChild" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 414: SecurityError: Permission denied to access property "removeEventListener" on cross-origin object
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts1.js, line 1: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: file:///C:/Users/Administrator/Desktop/AWbot//js//bundle.js, line 6575: Error: Login Endpoint Error 401 Unauthorized
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: file:///C:/Users/Administrator/Desktop/AWbot//js//bundle.js, line 24368: Error: assertion failure with message: symbol precision mismatch
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://5589a85b-1f2b-45d2-b868-2e8126dbb638/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript error: file:///C:/Users/Administrator/Desktop/AWbot//js//bundle.js, line 24368: Error: billed CPU time (5677 us) is greater than the maximum billable CPU time for the transaction (447 us)
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit {487609b5-5ca6-4c62-8523-11f3e1db851c}.274877907090
+1620945858429	Marionette	INFO	Stopped listening on port 64057
+1621129330275	geckodriver	INFO	Listening on 127.0.0.1:56822
+1621129330822	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileodZv35"
+*** You are running in headless mode.
+1621129331191	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621129332334	Marionette	INFO	Listening on port 56827
+1621129332528	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621129332530	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:56821","noProxy":[],"sslProxy":"127.0.0.1:56821"}
+JavaScript error: file:///C:/Users/Administrator/Desktop/AWbot//js//bundle.js, line 6575: Error: Login Endpoint Error 401 Unauthorized
+1621129340521	Marionette	INFO	Stopped listening on port 56827
+1621129341618	geckodriver	INFO	Listening on 127.0.0.1:56941
+1621129342165	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilevk4EWg"
+1621129342509	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621129344766	Marionette	INFO	Listening on port 56946
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1621129345071	Marionette	INFO	Stopped listening on port 56946
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621129362165	geckodriver	INFO	Listening on 127.0.0.1:56972
+1621129362712	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileiOqTuv"
+*** You are running in headless mode.
+1621129363066	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621129364675	Marionette	INFO	Listening on port 56977
+1621129364887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621129364890	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:56971","noProxy":[],"sslProxy":"127.0.0.1:56971"}
+JavaScript error: file:///C:/Users/Administrator/Desktop/AWbot//js//bundle.js, line 6575: Error: Login Endpoint Error 401 Unauthorized
+1621129372275	Marionette	INFO	Stopped listening on port 56977
+1621129373493	geckodriver	INFO	Listening on 127.0.0.1:57092
+1621129374056	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileSlb4Rd"
+1621129374421	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621129993547	geckodriver	INFO	Listening on 127.0.0.1:57631
+1621129994063	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileapdHV6"
+*** You are running in headless mode.
+1621129994490	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621129996463	Marionette	INFO	Listening on port 57636
+1621129996854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621129996859	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:57630","noProxy":[],"sslProxy":"127.0.0.1:57630"}
+JavaScript error: file:///C:/Users/Administrator/Desktop/AWbot//js//bundle.js, line 6575: Error: Login Endpoint Error 401 Unauthorized
+1621130006264	Marionette	INFO	Stopped listening on port 57636
+1621130007477	geckodriver	INFO	Listening on 127.0.0.1:57734
+1621130008008	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileBEQf0i"
+1621130008375	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621130010505	Marionette	INFO	Listening on port 57739
+1621130010769	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621130010773	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:57733","noProxy":[],"sslProxy":"127.0.0.1:57733"}
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/background.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/background.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/background.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/background.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/background.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/background.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/ExtensionUtils.jsm, line 114: SecurityError: Permission denied to access property "windowGlobalChild" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionUtils.jsm, line 114: SecurityError: Permission denied to access property "windowGlobalChild" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 414: SecurityError: Permission denied to access property "removeEventListener" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 414: SecurityError: Permission denied to access property "removeEventListener" on cross-origin object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/ExtensionUtils.jsm, line 114: SecurityError: Permission denied to access property "windowGlobalChild" on cross-origin object
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 414: SecurityError: Permission denied to access property "removeEventListener" on cross-origin object
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript error: file:///C:/Users/Administrator/Desktop/AWbot//js//bundle.js, line 6575: Error: Login Endpoint Error 401 Unauthorized
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts1.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript warning: moz-extension://e1dc929c-9341-4706-bf9d-fec15130ac0c/js/content_scripts2.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit {487609b5-5ca6-4c62-8523-11f3e1db851c}.274877907090
+1621130061572	Marionette	INFO	Stopped listening on port 57739
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
