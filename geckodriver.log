@@ -1,0 +1,11 @@
+1621129458057	geckodriver	INFO	Listening on 127.0.0.1:57134
+1621129458590	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilepAx2rw"
+*** You are running in headless mode.
+1621129458975	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621129460979	Marionette	INFO	Listening on port 57139
+1621129461367	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621129461371	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:57133","noProxy":[],"sslProxy":"127.0.0.1:57133"}
+JavaScript error: file:///C:/Users/Administrator/Documents/GitHub/Alien-Worlds-Auto-Mining-Bot-Solving-Captha//js//bundle.js, line 6575: Error: Login Endpoint Error 401 Unauthorized
+1621129469142	Marionette	INFO	Stopped listening on port 57139
+1621129470789	geckodriver	INFO	Listening on 127.0.0.1:57236

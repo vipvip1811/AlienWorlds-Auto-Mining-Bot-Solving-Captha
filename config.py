@@ -40,4 +40,35 @@ headless = True
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 MAIN_ACCOUNT = 'mlxtk.wam' # a smart contract account for the bot. Do not change.
