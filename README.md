@@ -1,6 +1,8 @@
 # Alien-Worlds-Auto-Mining-Bot-Solving-Captha
  This bot automatically mines TLM and solves the captcha through the Anti-Captha service
 
+The first working bot for the game Alien Worlds. You will never be banned. The bot always mines with a different delay, so the game thinks that you are a real person.
+
 English/Russian
 
 English:
